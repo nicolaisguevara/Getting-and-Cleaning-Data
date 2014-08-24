@@ -1,12 +1,13 @@
 
-  #Getting and Cleaning Data Project 
+
+# Getting and Cleaning Data Project 
   
-  ##Introduction
+## Introduction
 
   This repository contain an script to generate a tidy data from the Human Activity Recognition Using Smartphones Data Set available at
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-  ##About the script
+## About the script
 
   The script run_analysis.R does the following: 
  
