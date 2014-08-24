@@ -4,7 +4,8 @@
   
 ## Introduction
 
-  This repository contain an script to generate a tidy data from the Human Activity Recognition Using Smartphones Data Set available at
+  This repository contains an script to generate a tidy data from the Human Activity Recognition Using Smartphones Data Set available at:
+  
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## About the script
@@ -28,7 +29,7 @@ The tidy data can also be found in this repository.
 
 
 ## About the Code book
-The data used in this project represent data collected from the accelerometers from the Samsung Galaxy S smartphone (for details, see link above).
+The data used in this project represents data collected from the accelerometers from the Samsung Galaxy S smartphone (for details, see link above).
 A full description of variables can be found at the codebook.md
 
 
